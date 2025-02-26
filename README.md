@@ -13,7 +13,7 @@
 ---
 
 ## 📸 Demo  
-![Demo GIF](https://github.com/naomi-afrin/unitConverter/blob/master/unit-converter.gif)
+![Demo GIF](https://github.com/naomi-afrin/unitConverter/raw/master/unit-converter.gif)
 
 
 ---
